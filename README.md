@@ -14,7 +14,7 @@ My background in Computer Information Systems sparked a strong interest in cyber
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM LAB                                      | <a href="https://github.com/tinka391/SIEM-LAB">SIEM Lab</a>
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Azure Compute & Identity Management Lab        |<a href="https://www.linkedin.com/posts/rasheedahlandrum_azure-cloudcomputing-az104-activity-7318389754507522049-JXOG?utm_source=share&utm_medium=member_desktop&rcm=ACoAABAj9foB3Tu6O4goM1DAFLGoiJmjMJ-3dMc"> Azure Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
