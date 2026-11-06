@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/rasheedahlandrum/" target="_blank">LinkedIn Profile</a>
 
 
-I am a NYU M.S Cyber Fellow candidate & System Administrator with a profound interest in cybersecurity and a dedication to solving complex problems.
+I am an NYU M.S Cyber Fellow candidate & System Administrator with a profound interest in cybersecurity and a dedication to solving complex problems.
 
 Objective
 
