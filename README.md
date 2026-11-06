@@ -6,7 +6,7 @@ I am an NYU M.S Cyber Fellow candidate & System Administrator with a profound in
 
 Objective
 
-My background in Computer Information Systems & Cybersecurity with a strong interested in GRC and Security Engineering.
+My background in Computer Information Systems & Cybersecurity with a strong interest in GRC and Security Engineering.
 
 ## Skills
 
